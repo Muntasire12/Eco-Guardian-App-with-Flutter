@@ -159,11 +159,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors who have helped shape this project
 - The open-source community for their continuous support
 
-## 📞 Contact
 
-Shakil Ahmed - [shakilahmedshaks@gmail.com](mailto:shakilahmedshaks@gmail.com)
-
-Project Link: [https://github.com/meetshaks/Eco-Guardian-App-with-Flutter](https://github.com/meetshaks/Eco-Guardian-App-with-Flutter)
 
 ---
 
